@@ -1,0 +1,69 @@
+body{
+    background-color: #151515;
+    color:bisque;
+}
+#title {
+background-color: rgb(42, 191, 204);
+color: black;
+padding: 50px;
+text-align: center;
+font-size: 50px;
+}
+#title2 {
+font-size: 40px;
+text-align: center;
+}
+#article {
+margin: 0 auto;
+padding: 20px;
+width: 45%;
+background-color: #f1f1f1;
+
+height: 250px;
+font-size: 19px;
+}
+#p1 {
+margin: 0 auto;
+padding: 20px;
+width: 50%;
+font-size: 19px;
+text-align: left;
+font-family:serif;
+
+}
+#p2 {
+margin: 0 auto;
+padding: 20px;
+width: 50%;
+font-size: 19px;
+text-align: left;
+font-family:serif
+}
+#h1 {
+margin: 0 auto;
+padding: 20px;
+width: 50%;
+height: 200px;
+font-size: 19px;
+text-align: left;
+font-family:serif
+}
+.centered-heading {
+text-align: center;
+}
+.parallax {
+background-image: url("https://media.wired.com/photos/5c2ea28e2020097d13ab866a/master/w_1600%2Cc_limit/phases_2015_plain.gif");
+min-height: 500px;  
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+.image1{
+background-image: url("https://media.wired.com/photos/5c2ea28e2020097d13ab866a/master/w_1600%2Cc_limit/phases_2015_plain.gif");
+min-height: 500px; 
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
